@@ -1,0 +1,5 @@
+# Generated from local Cursor chat DBs (may include chat titles)
+dashboard.html
+__pycache__/
+*.pyc
+.DS_Store
